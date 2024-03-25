@@ -1,0 +1,2 @@
+# TS
+Tehnici de Simulare
